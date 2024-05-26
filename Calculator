@@ -1,1 +1,2 @@
 cout<<"Aamir Irshad"<<\t<<"Roll number";
+cout<<"a X b = "<<a*b;
