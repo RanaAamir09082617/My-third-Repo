@@ -1,6 +1,5 @@
-subtraction
 cout<<"Aamir Irshad"<<"Roll number";
 cout<<"a - b = "<<a-b;
 cout<<"Aamir Irshad"<<"Roll number";
 cout<<"a + b = "<<a+b;
-addition
+cout<<"Aamir Irshad"<<\t<<"2023-BT-SE-13";
