@@ -1,1 +1,2 @@
-cout<<"Aamir Irshad"<<\t<<"Roll number";
+cout<<"Aamir Irshad"<<\t<<"Roll number"<<endl;
+cout<<"a + b = "<<a+b;
