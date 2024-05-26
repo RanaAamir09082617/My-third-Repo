@@ -1,2 +1,6 @@
-cout<<"Aamir Irshad"<<\t<<"Roll number";
+subtraction
+cout<<"Aamir Irshad"<<"Roll number";
 cout<<"a - b = "<<a-b;
+cout<<"Aamir Irshad"<<"Roll number";
+cout<<"a + b = "<<a+b;
+addition
